@@ -1,47 +1,28 @@
 <div align="center">
 
-```ascii
-     _                                  ____            _                           _     _ _   
-    / \   __ _ _ __ _   _  __ _ _ __   |  _ \ __ _     |_ _ __  _   _ _ __ ___  | |__ (_) |_ 
-   / _ \ / _` | '__| | | |/ _` | '_ \  | |_) / _` |_   | | '_ \| | | | '__/ _ \ | '_ \| | __|
-  / ___ \ (_| | |  | |_| | (_| | | | | |  _ < (_| | |__| | |_) | |_| | | | (_) || | | | | |_ 
- /_/   \_\__,_|_|   \__, |\__,_|_| |_| |_| \_\__,_|\____/| .__/ \__,_|_|  \___/ |_| |_|_|\__|
-                    |___/                                 |_|                                   
-```
+# 👋 Hey, I'm Aaryan Rajpurohit
 
-### `< Full Stack Developer | MERN Stack Enthusiast />`
+### Full Stack Developer | MERN Stack Enthusiast
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+the+web%2C+one+line+at+a+time;Turning+ideas+into+reality;Always+learning%2C+always+growing)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+the+web%2C+one+project+at+a+time;Always+learning%2C+always+creating;Passionate+about+clean+code+%26+great+UX)
 
 </div>
 
 ---
 
-## 👋 Hey there, I'm Aaryan
+### 🚀 About Me
 
-> *"Code is poetry written in logic."*
+I'm a developer who loves building things that work smoothly and look great. My focus is on creating web applications that solve real problems while keeping the user experience front and center.
 
-I'm a **Full Stack Developer** passionate about crafting seamless digital experiences and scalable systems. My journey in tech is driven by curiosity, creativity, and a relentless pursuit of mastery. Whether it's building intuitive frontends or architecting robust backends, I believe great software is where **design meets performance**.
+Currently mastering the **MERN stack** and diving deep into modern web technologies. I believe the best code is clean, maintainable, and built with both logic and design in mind.
 
-Currently diving deep into the **MERN stack** and exploring cutting-edge web technologies. I love collaborating on projects that challenge me to grow and contribute to meaningful solutions.
+When I'm working on a project, I'm thinking about scalability, performance, and how every interaction feels to the end user. Always learning, always building.
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🛠️ Tech Stack
 
-```javascript
-const aaryan = {
-    code: ["JavaScript", "Python", "TypeScript"],
-    frontend: ["React.js", "Next.js", "Tailwind CSS", "Framer Motion"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "MySQL", "PostgreSQL"],
-    tools: ["Git", "VS Code", "Postman", "Docker"],
-    currentFocus: "Building scalable full-stack applications",
-    philosophy: "Clean code, better UX, continuous learning"
-};
-```
-
-### Languages & Frameworks
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,83 +35,70 @@ const aaryan = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaryanrajpurohit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaryanrajpurohit&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaryanrajpurohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryanrajpurohit&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryanrajpurohit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaryanrajpurohit&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 💼 Projects I've Built
 
-### 🔥 Password Manager
-**Secure. Simple. Functional.**  
-A full-stack password management solution with encryption, built using modern web technologies.  
-**Tech:** React.js, Node.js, MongoDB, Encryption APIs  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge)](https://github.com/aaryanrajpurohit) [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/aaryanrajpurohit)
+#### 🎮 Chattrix (In Progress)
+A real-time chatting and gaming platform that blends social interaction with gameplay. Building this from scratch with WebSocket connections for instant communication and game state synchronization. It's a full-stack challenge that's teaching me a lot about real-time architecture.  
+**Stack:** React.js • Node.js • WebSocket • MongoDB • Express.js
 
-### 🌐 MERN Social App
-**Connect. Share. Engage.**  
-A social media platform with real-time features, authentication, and responsive design.  
-**Tech:** React.js, Express.js, MongoDB, Socket.io  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge)](https://github.com/aaryanrajpurohit) [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/aaryanrajpurohit)
+#### 🔐 Password Manager
+A secure password management solution with encryption and a clean, functional UI. Built to solve a real need while learning about security best practices.  
+**Stack:** React.js • Node.js • MongoDB • Encryption APIs
 
-### 💼 Portfolio Website
-**Showcase. Inspire. Connect.**  
-A sleek, animated portfolio showcasing my work, skills, and journey.  
-**Tech:** Next.js, Tailwind CSS, Framer Motion  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge)](https://github.com/aaryanrajpurohit) [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/aaryanrajpurohit)
+#### 🌐 MERN Social App
+Full-featured social media platform with real-time messaging, authentication, and responsive design. This project pushed me to understand full-stack architecture deeply.  
+**Stack:** React.js • Express.js • MongoDB • Socket.io
+
+#### 💼 Portfolio Website
+My personal corner of the internet. Minimal design, smooth animations, and built for performance.  
+**Stack:** Next.js • Tailwind CSS • Framer Motion
 
 ---
 
-## 🌐 Let's Connect
+### 📫 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryanrajpurohit)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/aaryanrajpurohit)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaryanrajpurohit)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryanrajpurohit)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aaryanrajpurohit.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aaryanrajpurohit.dev)
 
 </div>
 
 ---
 
-## ⚡ Fun Facts
-
-💡 *"I believe great design and logic go hand-in-hand."*  
-🎯 When I'm not coding, I'm probably exploring new frameworks or brewing the perfect cup of coffee.  
-🚀 Life motto: **Code. Learn. Create. Repeat.**
-
----
-
 <div align="center">
 
-### 💭 Quote of the Day
+**💡 "Great software is where design meets performance."**
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+⚡ When I'm not coding: exploring new frameworks, perfecting my coffee game, or planning the next build.
 
----
-
-### 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryanrajpurohit&theme=react-dark&hide_border=true&area=true)
+![Profile Views](https://komarev.com/ghpvc/?username=aaryanrajpurohit&color=blueviolet&style=flat-square)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Made%20with%20❤️%20by%20Aaryan%20Rajpurohit&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75"/>
-
-**✨ Keep building, keep learning ✨**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=aaryanrajpurohit&color=00D9FF&style=for-the-badge&label=Profile+Views)
+*Made with ❤️ by Aaryan Rajpurohit*
 
 </div>
