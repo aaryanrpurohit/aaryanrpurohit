@@ -65,25 +65,15 @@ A real-time chatting and gaming platform that blends social interaction with gam
 #### 🔐 Password Manager
 A secure password management solution with encryption and a clean, functional UI. Built to solve a real need while learning about security best practices.  
 **Stack:** React.js • Node.js • MongoDB • Encryption APIs
-
-#### 🌐 MERN Social App
-Full-featured social media platform with real-time messaging, authentication, and responsive design. This project pushed me to understand full-stack architecture deeply.  
-**Stack:** React.js • Express.js • MongoDB • Socket.io
-
-#### 💼 Portfolio Website
-My personal corner of the internet. Minimal design, smooth animations, and built for performance.  
-**Stack:** Next.js • Tailwind CSS • Framer Motion
-
 ---
 
 ### 📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryanrajpurohit)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaryanrajpurohit)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryanrajpurohit)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aaryanrajpurohit.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryan-rajpurohit)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaryanrpurohit)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryanrpurohit)
 
 </div>
 
@@ -93,7 +83,6 @@ My personal corner of the internet. Minimal design, smooth animations, and built
 
 **💡 "Great software is where design meets performance."**
 
-⚡ When I'm not coding: exploring new frameworks, perfecting my coffee game, or planning the next build.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aaryanrajpurohit&color=blueviolet&style=flat-square)
 
