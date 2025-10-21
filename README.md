@@ -65,6 +65,8 @@ A real-time chatting and gaming platform that blends social interaction with gam
 #### 🔐 Password Manager
 A secure password management solution with encryption and a clean, functional UI. Built to solve a real need while learning about security best practices.  
 **Stack:** React.js • Node.js • MongoDB • Encryption APIs
+
+
 ---
 
 ### 📫 Connect With Me
