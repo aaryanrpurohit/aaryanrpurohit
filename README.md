@@ -43,14 +43,15 @@ When I'm working on a project, I'm thinking about scalability, performance, and 
 
 <p align="center">
   <a href="https://linkedin.com/in/aaryan-rajpurohit" target="_blank">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/aaryanrajpurohit/" target="_blank">
-    <img src="https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50" alt="LeetCode"/>
   </a>
   <a href="https://twitter.com/aaryanrpurohit" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="50" height="50" alt="X"/>
   </a>
 </p>
+
 
 </div>
