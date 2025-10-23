@@ -40,10 +40,12 @@ When I'm working on a project, I'm thinking about scalability, performance, and 
 ---
 
 ### 📫 Connect With Me
+<div align="center" >
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryan-rajpurohit) &nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-logo=leetcode&logoColor=white)](https://leetcode.com/u/aaryanrajpurohit/) &nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=for-the-logo=x&logoColor=white)](https://twitter.com/aaryanrpurohit)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryan-rajpurohit)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aaryanrajpurohit/)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/aaryanrpurohit)
-
+</div>
 
 </div>
