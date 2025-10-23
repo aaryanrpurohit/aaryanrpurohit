@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Hey, I'm Aaryan Rajpurohit
 
@@ -43,8 +43,8 @@ When I'm working on a project, I'm thinking about scalability, performance, and 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryan-rajpurohit)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/aaryanrajpurohit/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/aaryanrpurohit)
+[![LinkedIn](https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/aaryan-rajpurohit)
+[![LeetCode](https://img.shields.io/badge/-?style=for-the-badge&logo=leetcode&logoColor=white&color=FFA116)](https://leetcode.com/u/aaryanrajpurohit/)
+[![X](https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://twitter.com/aaryanrpurohit)
 
 </div>
