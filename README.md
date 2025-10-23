@@ -10,16 +10,6 @@
 
 ---
 
-### 🚀 About Me
-
-I'm a developer who loves building things that work smoothly and look great. My focus is on creating web applications that solve real problems while keeping the user experience front and center.
-
-Currently mastering the **MERN stack** and diving deep into modern web technologies. I believe the best code is clean, maintainable, and built with both logic and design in mind.
-
-When I'm working on a project, I'm thinking about scalability, performance, and how every interaction feels to the end user. Always learning, always building.
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -39,33 +29,13 @@ When I'm working on a project, I'm thinking about scalability, performance, and 
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 About Me
 
-<div align="center">
+I'm a developer who loves building things that work smoothly and look great. My focus is on creating web applications that solve real problems while keeping the user experience front and center.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaryanrajpurohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryanrajpurohit&layout=compact&theme=tokyonight&hide_border=true"/>
+Currently mastering the **MERN stack** and diving deep into modern web technologies. I believe the best code is clean, maintainable, and built with both logic and design in mind.
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaryanrajpurohit&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 💼 Projects I've Built
-
-#### 🎮 Chattrix (In Progress)
-A real-time chatting and gaming platform that blends social interaction with gameplay. Building this from scratch with WebSocket connections for instant communication and game state synchronization. It's a full-stack challenge that's teaching me a lot about real-time architecture.  
-**Stack:** React.js • Node.js • WebSocket • MongoDB • Express.js
-
-#### 🔐 Password Manager
-A secure password management solution with encryption and a clean, functional UI. Built to solve a real need while learning about security best practices.  
-**Stack:** React.js • Node.js • MongoDB • Encryption APIs
-
+When I'm working on a project, I'm thinking about scalability, performance, and how every interaction feels to the end user. Always learning, always building.
 
 ---
 
@@ -76,20 +46,5 @@ A secure password management solution with encryption and a clean, functional UI
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryan-rajpurohit)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaryanrpurohit)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryanrpurohit)
-
-</div>
-
----
-
-<div align="center">
-
-**💡 "Great software is where design meets performance."**
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=aaryanrajpurohit&color=blueviolet&style=flat-square)
-
----
-
-*Made with ❤️ by Aaryan Rajpurohit*
 
 </div>
