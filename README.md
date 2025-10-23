@@ -41,15 +41,16 @@ When I'm working on a project, I'm thinking about scalability, performance, and 
 
 ### 📫 Connect With Me
 
-<div align="center">
-<a href="https://linkedin.com/in/aaryan-rajpurohit">
-  <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/u/aaryanrajpurohit/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/>
-</a>
-<a href="https://twitter.com/aaryanrpurohit">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="40" alt="X"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/aaryan-rajpurohit" target="_blank">
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/aaryanrajpurohit/" target="_blank">
+    <img src="https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://twitter.com/aaryanrpurohit" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+</p>
 
 </div>
