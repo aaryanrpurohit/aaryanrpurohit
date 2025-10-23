@@ -40,12 +40,19 @@ When I'm working on a project, I'm thinking about scalability, performance, and 
 ---
 
 ### 📫 Connect With Me
-<div align="center" >
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryan-rajpurohit) &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-logo=leetcode&logoColor=white)](https://leetcode.com/u/aaryanrajpurohit/) &nbsp;
-[![X](https://img.shields.io/badge/X-000000?style=for-the-logo=x&logoColor=white)](https://twitter.com/aaryanrpurohit)
 
+<div align="center">
+  <a href="https://linkedin.com/in/aaryan-rajpurohit">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-logo&logo=linkedin&logoColor=white&logoWidth=40" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/aaryanrajpurohit/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-logo&logo=leetcode&logoColor=white&logoWidth=40" alt="LeetCode">
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/aaryanrpurohit">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-logo&logo=x&logoColor=white&logoWidth=40" alt="X">
+  </a>
 </div>
 
 </div>
