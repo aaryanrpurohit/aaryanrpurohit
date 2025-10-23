@@ -42,9 +42,14 @@ When I'm working on a project, I'm thinking about scalability, performance, and 
 ### 📫 Connect With Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/aaryan-rajpurohit)
-[![LeetCode](https://img.shields.io/badge/-?style=for-the-badge&logo=leetcode&logoColor=white&color=FFA116)](https://leetcode.com/u/aaryanrajpurohit/)
-[![X](https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://twitter.com/aaryanrpurohit)
+<a href="https://linkedin.com/in/aaryan-rajpurohit">
+  <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/aaryanrajpurohit/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/>
+</a>
+<a href="https://twitter.com/aaryanrpurohit">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="40" alt="X"/>
+</a>
 
 </div>
